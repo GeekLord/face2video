@@ -2,7 +2,7 @@ import requests
 import base64
 import os
 
-# see http://127.0.0.1:7860/docs#/ and https://github.com/Gourieff/sd-webui-reactor
+# see http://127.0.0.1:7860/docs#/ and https://github.com/Gourieff/sd-webui-reactor-sfw
 # must add --api in webui-user
 
 url = "http://127.0.0.1:7860"

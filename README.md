@@ -16,6 +16,8 @@ The Automatic 1111 API needs to be enabled. Add "--api" to the COMMANDLINE_ARGS 
 
 To install all other dependencies and set up all the needed folders, simply run the install.py script once.
 
+Note: Dependencies have been updated to their latest stable versions as of 2025 (e.g. numpy 2.2.3, moviepy 2.2.1, opencv 4.11.0.86, requests 2.32.3).
+
 ### How to use
 
 1. Put your target video in the input_videos folder and your face image into the input_faces folder (the script has been tested with .mp4, .png, and .jpg files).
